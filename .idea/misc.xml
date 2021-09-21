@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/drawable/ic_profile_question.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/drawable/shp.xml" value="0.3078125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/access_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/fragment_few.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/fragment_many.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/fragment_oper.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/fragment_view_pager.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/item.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/item_t.xml" value="0.2015625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/main_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/picker_fragment.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/layout/vp_item.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.36875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

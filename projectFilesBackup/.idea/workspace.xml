@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bc6770a-8aa3-4c79-9f6e-385cff6a6f70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@d8d0ba87]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1syb9DjxS1IzXb1XozmYAk989do" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.3.0/45a346a05e7ff27a01c59452379c5939cbb53c03/appcompat-1.3.0-sources.jar!/androidx/appcompat/widget/AppCompatButton.java_SELECTED" value="AppCompatButton" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.3.0/45a346a05e7ff27a01c59452379c5939cbb53c03/appcompat-1.3.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED" value="Toolbar" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java_SELECTED" value="CoordinatorLayout" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.5.0/b59df19e06f42e39b6d6ee97b2a1e42fd7c88204/core-1.5.0-sources.jar!/androidx/core/widget/NestedScrollView.java_SELECTED" value="NestedScrollView" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0/3e159bfab49c7e6495fe374e6e5e1e989ee21dcf/recyclerview-1.2.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED" value="ViewPager2" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/appbar/AppBarLayout.java_SELECTED" value="AppBarLayout" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/appbar/MaterialToolbar.java_SELECTED" value="MaterialToolbar" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
+    <property name="android-custom-viewC:/Users/User/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/floatingactionbutton/FloatingActionButton.java_SELECTED" value="FloatingActionButton" />
+    <property name="android-custom-viewC:/Users/User/AndroidStudioProjects/AccessTestProject/app/src/main/java/com/example/accesstestproject/ui/main/FewFragment.kt_SELECTED" value="RecyclerViewImpl" />
+    <property name="android-custom-viewC:/Users/User/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/User/AppData/Local/Android/Sdk/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewC:/Users/User/AppData/Local/Android/Sdk/sources/android-30/android/widget/Button.java_SELECTED" value="Button" />
+    <property name="android-custom-viewC:/Users/User/AppData/Local/Android/Sdk/sources/android-30/android/widget/Toolbar.java_SELECTED" value="Toolbar" />
+    <property name="android.recentlyUsedThemes" value="Theme.MaterialComponents.DayNight.Dialog.Alert" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.2109960915">
+      <recent name="com.example.accesstestproject.ui.main" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.accesstestproject.ui.main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\AndroidStudioProjects\AccessTestProject\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\User\AndroidStudioProjects\AccessTestProject\app\src\main\res\values-night" />
+      <recent name="C:\Users\User\AndroidStudioProjects\AccessTestProject\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="AccessTestProject.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AccessTestProject.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.accesstestproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.accesstestproject" />
+      <option name="MAIN_CLASS_NAME" value="com.example.accesstestproject.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AccessTestProject.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.accesstestproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.accesstestproject" />
+      <option name="MAIN_CLASS_NAME" value="com.example.accesstestproject.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc6770a-8aa3-4c79-9f6e-385cff6a6f70" name="Default Changelist" comment="" />
+      <created>1621847622229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621847622229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="265" key="#Console" timestamp="1621850985006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="632" y="265" key="#Console/0.0.1920.1040@0.0.1920.1040" timestamp="1621850985006" />
+    <state x="751" y="236" width="1022" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1622122990976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="236" width="1022" height="568" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1622122990976" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1621958407740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621958407740" />
+    <state x="540" y="225" key="AndroidThemeDialog" timestamp="1622120640008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="225" key="AndroidThemeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622120640008" />
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1622226963514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622226963514" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1622226963514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622226963514" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1622226963514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622226963514" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1622226963514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622226963514" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1621929692904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621929692904" />
+    <state width="498" height="457" key="SwitcherDM" timestamp="1621979131843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="457" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1621979131843" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622227648601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622227648601" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1622221531056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622221531056" />
+    <state width="865" height="500" key="javadoc.popup.new" timestamp="1622133776751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="865" height="500" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1622133776751" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1622132226348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622132226348" />
+  </component>
+</project>
